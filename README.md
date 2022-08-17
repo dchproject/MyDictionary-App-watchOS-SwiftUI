@@ -1,0 +1,1 @@
+# MyDictionary-App-WatchOS-SwiftUI
